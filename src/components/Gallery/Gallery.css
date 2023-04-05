@@ -1,0 +1,14 @@
+img.full-screen-image {
+    width: 100%;
+}
+
+
+#fullScreenImage >img{
+    width: 100%;
+    height: 100%;
+}
+
+#minimizedImage >img{
+    width: 20%;
+    height: 20%;
+}
