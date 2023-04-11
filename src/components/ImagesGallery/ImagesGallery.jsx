@@ -41,7 +41,6 @@ const images = [
   },
 ];
 
-
 const ImagesGallery = () => {
   return (
     <ImageGallery

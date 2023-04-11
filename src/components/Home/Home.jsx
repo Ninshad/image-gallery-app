@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom'
 import { images } from '../../constants'
 import './Home.css'
 
-
 const Home = () => {
   return (
     <div className='home-buttons'>

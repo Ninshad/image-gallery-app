@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './NewGallery.css';
 
-// Array of image URLs
 const images = [
   'https://via.placeholder.com/500x500?text=Image+1',
   'https://via.placeholder.com/500x500?text=Image+2',
